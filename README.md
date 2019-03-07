@@ -28,7 +28,7 @@ If the system is used over github - as in my case - and you try to adhere to pus
 
 	 	SleepOK	Workout	Run	Thesis 	Dev	House	Girlfr.	Book	Guitar
 	Sze	X	X	X	X	X	X	.	X	X
-	Csü	.	.	.	.	.	.	.	.	.
+	Csü	.	X	.	X	X	X	X	X	X
 	Pén	.	.	.	.	.	.	.	.	.
 	Szo	.	.	.	.	.	.	.	.	.	
 	Vas	.	.	.	.	.	.	.	.	.
