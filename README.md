@@ -29,8 +29,8 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	 	SleepOK	Workout	Run	Thesis 	Dev	House	Girlfr.	Book	Guitar
 	Sze	X	X	X	X	X	X	.	X	X
 	Csü	.	X	.	X	X	X	X	X	X
-	Pén	.	.	.	.	.	.	.	.	.
-	Szo	.	.	.	.	.	.	.	.	.	
+	Pén	.	X	X	X	X	.	.	.	X
+	Szo	.	.	.	.	X	.	.	X	X	
 	Vas	.	.	.	.	.	.	.	.	.
 	
 	Hét	.	.	.	.	.	.	.	.	.
@@ -87,3 +87,24 @@ The above should be understood as:
 * **Book** - Writing into my book
 * **Guitar** - Play some guitar. It can be any small amount!
 
+### Pointing system
+
+The points after your kisbaranta consists of the base- and duplicate-points:
+
+* You get a single points for every 'X' in the table (**BASE POINTS**)
+* Some of the 'X's can be counted more than once (**DUPLICATE POINTS**)
+
+For **DUPLICATE POINTS** you can count an 'X' multiple times as follows:
+
+1. When every column has an 'X' in a row, count those 'X's one more time!
+2. When every row in a week has an 'X' in a column, count those 'X's one more time!
+3. When every spot has an 'X' for a whole week everywhere, count those 'X's two more time!
+4. When every spot has an 'X' in the whole table, multiply your points from 1-3 with the number of the columns.
+
+When both rules apply, you get both duplicate points added to your base point!
+
+This pointing system approximates the "experience points" you gain through 
+your kisbaranta and tries to force you to continue your work even if you 
+miss some or many of your goals for a short period of time. Also considering 
+that these points measure experience and strenght you have gained, they are 
+always positive - even if you have got only one point (surely you get more)!
