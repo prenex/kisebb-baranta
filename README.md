@@ -31,7 +31,7 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	Csü	.	X	.	X	X	X	X	X	X
 	Pén	.	X	X	X	X	.	.	.	X
 	Szo	.	.	.	.	X	.	.	X	X	
-	Vas	.	.	.	.	.	.	.	.	.
+	Vas	.	.	.	.	.	.	.	X	.
 	
 	Hét	.	.	.	.	.	.	.	.	.
 	Ked	.	.	.	.	.	.	.	.	.
