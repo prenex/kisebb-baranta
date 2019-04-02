@@ -44,21 +44,21 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	Hét	.	.	.	.	.	X	.	.	.
 	Ked	.	.	.	.	X	.	X	.	.
 	Sze	.	X	X	.	X	.	.	.	.
-	Csü	.	.	.	.	.	.	.	.	.
-	Pén	.	.	.	.	.	.	.	.	.
-	Szo	.	.	.	.	.	.	.	.	.
-	Vas	.	.	.	.	.	.	.	.	.
+	Csü	.	.	.	.	.	.	.	X	X
+	Pén	.	.	.	.	.	X	.	X	.
+	Szo	.	X	.	.	.	.	.	.	.
+	Vas	.	X	X	.	.	.	.	.	.
 	
-	Hét	.	.	.	.	.	.	.	.	.
+	Hét	.	.	.	.	.	X	.	.	.
 	Ked	.	.	.	.	.	.	.	.	.
-	Sze	.	.	.	.	.	.	.	.	.
-	Csü	.	.	.	.	.	.	.	.	.
-	Pén	.	.	.	.	.	.	.	.	.
-	Szo	.	.	.	.	.	.	.	.	.
-	Vas	.	.	.	.	.	.	.	.	.
+	Sze	.	.	.	.	.	X	.	.	.
+	Csü	X	.	.	.	.	X	.	.	.
+	Pén	.	.	.	.	X	.	.	.	.
+	Szo	.	X	X	.	.	.	.	.	X
+	Vas	X	.	.	.	.	.	.	.	.
 	
-	Hét	.	.	.	.	.	.	.	.	.
-	Ked	.	.	.	.	.	.	.	.	.
+	Hét	.	.	.	.	X	X	.	.	X
+	Ked	.	.	.	.	.	X	.	X	X
 	Sze	.	.	.	.	.	.	.	.	.
 	Csü	.	.	.	.	.	.	.	.	.
 	Pén	.	.	.	.	.	.	.	.	.
