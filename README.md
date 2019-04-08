@@ -59,13 +59,13 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	
 	Hét	.	.	.	.	X	X	.	.	X
 	Ked	.	.	.	.	.	X	.	X	X
-	Sze	.	.	.	.	.	.	.	.	.
-	Csü	.	.	.	.	.	.	.	.	.
-	Pén	.	.	.	.	.	.	.	.	.
+	Sze	.	.	.	.	.	.	.	.	X
+	Csü	.	.	.	.	.	.	.	.	X
+	Pén	X	.	.	.	X	X	.	.	.
 	Szo	.	.	.	.	.	.	.	.	.
-	Vas	.	.	.	.	.	.	.	.	.
+	Vas	.	.	.	.	.	.	.	X	.
 	
-	Hét	.	.	.	.	.	.	.	.	.
+	Hét	.	.	.	.	.	.	.	X	.
 	Ked	.	.	.	.	.	.	.	.	.
 	Sze	.	.	.	.	.	.	.	.	.
 	Csü	.	.	.	.	.	.	.	.	.
