@@ -74,9 +74,9 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	Vas	.	.	.	.	.	.	.	.	.
 	
 	Hét	.	.	.	.	X	.	.	X	.
-	Ked	.	.	.	.	.	.	.	.	.
-	Sze	.	.	.	.	.	.	.	.	.
-	Csü	.	.	.	.	.	.	.	.	.
+	Ked	.	X	.	.	X	.	.	X	.
+	Sze	.	.	.	.	X	.	X	X	.
+	Csü	.	.	.	.	.	.	X	X	.
 	Pén	.	.	.	.	.	.	.	.	.
 	Szo	.	.	.	.	.	.	.	.	.
 	Vas	.	.	.	.	.	.	.	.	.
