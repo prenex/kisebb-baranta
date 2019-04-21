@@ -3,13 +3,17 @@ An everyday man's 40-day excercise in life - done according to old Hungarian val
 
 This is a modified and even smaller version of "kisbaranta" done earlier.
 
-If you want to do a similar one, you can clone the very first commit and change the columns!
+If you want to do a similar one, you can just use pen-and paper to write your own 
+columns, rows and any period you wish.
+
+In case you are a technical IT-guy, you might clone the very first commit and change 
+the columns here right in github.com, but for everyday people pen+paper is best!
 
 ## Reasoning for the cause
 
 As is visible from the last attempt, certain changes are made to make things smaller and more easy to do completely - I still does not expect this will be done completely even in this form.
 
-Also look for the real one here:
+Also look for the real one here - of course a real "Baranta" is much bigger and different!
 
 [History of baranta](http://www.baranta.org/index.php/english/history-of-baranta)
 
