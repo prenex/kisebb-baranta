@@ -78,8 +78,8 @@ If the system is used over github - as in my case - and you try to adhere to pus
 	Sze	.	.	.	.	X	.	X	X	.
 	Csü	.	.	.	.	.	.	X	X	.
 	Pén	X	X	X	X	X	X	X	X	X
-	Szo	.	.	.	.	.	.	.	.	.
-	Vas	.	.	.	.	.	.	.	.	.
+	Szo	.	.	.	.	X	.	X	X	X
+	Vas	.	.	.	.	.	.	X	X	X
 	
 	Hét - Easter (Just be happy and celebrate God here whatever happens)
 
@@ -91,7 +91,7 @@ The above should be understood as:
 * **Thesis** - Writing my thesis (it is a different topic now, but still not done!)
 * **Dev** - Either one of: Working on my own AR glasses or its software; Working on my dream computer; or writing other productive code
 * **House** - Doing any kind of work on my house that I am renovating. It can be ANY from the smallest work to biggest ones.
-* **Girlfr.** - Trying to greet her, connect to her, make her day more happy. She has a lot to do so this is hard, but I can make my part.
+* **Girlfr.** - I only made an 'X' here if I could give her something really good, buy presents for her, act for her greatly and such.
 * **Book** - Writing into my book
 * **Guitar** - Play some guitar. It can be any small amount!
 
@@ -116,3 +116,50 @@ your kisbaranta and tries to force you to continue your work even if you
 miss some or many of your goals for a short period of time. Also considering 
 that these points measure experience and strenght you have gained, they are 
 always positive - even if you have got only one point (surely you get more)!
+
+### Thinking back to all of this
+
+The take-away from this kisbaranta:
+
+1. I wish I can gain more points, we are always weaker than we expect - but mostly in the soul.
+2. There were many things - like working in the wine garden - that I of course never count in the table and some things can take half a day.
+3. Getting a cold can destroy a nicely going plan after which you need to build up rythm once again.
+4. Maybe I should have added a new thing to the pointing system: to give some minor points (one per day) if "at least one X is present". This way I would be more forced to do at least one of the planned things every day.
+5. It is not a good idea to write in "girlfriend" into the list as I tend to only give me an 'X' if I surely and highly can please her so it might just look bad and feel weird anyways. I generally want to think about her and act for her as much as I can, so I am kind of forced to only give me a point for "real extras" which are more rare so there is nothing good coming out of this I feel. She is always in my life and I do not need a plan for this thank God ;-)
+6. Maybe I should have centralized my efforts a bit more to gain more effect, but it is good anyways.
+7. Despite the table is as above I am still happy I was at least trying ;-)
+
+### Gained points
+
+**Base points:** 96
+
+**Duplicate points:** 9+5+7 = 21
+
+* +9 for "Pén" (Friday) of the last week
+* +5 for the first week "Dev" column
+* +7 for the last week "Book" column
+
+**All points gained:** 96+21 = 117
+
+### Further statistics
+
+I got the following base-point gains per action item:
+
+		SleepOk:    6
+		Workout:    9
+		Run:        6
+		Thesis:     4
+		Dev:       17
+		House:     17
+		Girlfr:     7
+		Book:      16
+		Guitar:    14
+
+Interestingly this is not the same as I would think without counting it as 
+I felt "Dev" and "Book" will end up on the top and "Guitar" not close!
+
+Also despite I never made a full week for "House" it seems it became top,
+because I constantly worked on it "from time to time". How interesting 
+that things you do more regularly might "collect up" so much that it can 
+be on-par on beat things you try in small marathons. This is logical, but 
+still quite unbelievable if it happens to you and not to someone else ;-)
